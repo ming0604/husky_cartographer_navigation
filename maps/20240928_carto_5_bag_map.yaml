@@ -1,0 +1,6 @@
+image: /home/mingzhun/lab_localization/src/husky_cartographer_navigation/maps/20240928_carto_5_bag_map.pgm
+resolution: 0.05
+origin: [-7.50577, -3.39844, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
